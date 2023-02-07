@@ -1,0 +1,21 @@
+.banner{
+   background-color: MediumSeaGreen;
+   width :500%;
+   height :400%;
+   margin-bottom:50px;
+}
+
+
+.banner-text{
+   top:10%;
+   left:40%;
+   position:absolute;
+
+}
+
+.container {
+   top:30%;
+   left:0%;
+   position:absolute;
+   transform:transform;
+}
